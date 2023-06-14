@@ -1,9 +1,12 @@
-### Hi there 👋
+### Hello, I'm Devin! 👋
 
-I'm Devin! After a decade of working as a video editor in advertising agencies and freelance roles serving established brands and startups, I'm pursuing a career pivot into software engineering. 
+- Learning front end software engineering @ Turing School of Software and Design.
+  
+- Video editor/film worker turned web developer. My background as an exhaustive researcher, love of precision, and experience in creative problem-solving has drawn me to this exciting career path.
 
-My background as an exhaustive researcher, love of precision, and experience in creative problem-solving has drawn me to this exciting career path. Crafting bespoke solutions for clients and taking direction from top creative talent has prepared me to excel in collaborative engineering settings along with my skills in communicating technical requirements to non-technical audiences.
+- Interested in creating accessible applications that target the needs of non-traditional users and, in turn, benefit all users.
 
-As a software engineer, I’m interested in creating accessible applications that target the needs of non-traditional users and, in turn, benefit all users.
+For fun:
+🚲 bicycle enthusiast 
+🪴 plant appreciator
 
-You can reach me at dl.altobello@gmail.com.
